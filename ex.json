@@ -1,0 +1,14 @@
+{
+	"exchange_rates": {
+		"USD": {
+			"symbol": "$",
+			"rate": 1,
+			"name": "US Dollar"
+		},
+		"CNY": {
+			"symbol": "¥",
+			"rate": 7.1026,
+			"name": "Chinese Yuan"
+		}
+	}
+}
